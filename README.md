@@ -1,5 +1,5 @@
 # Planning
 
-http://instituteofcommerce.github.io/Planning
+http://instituteofcommerce.github.io/International
 
 http://internationalinstituteofcommerce.com
