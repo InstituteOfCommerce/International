@@ -2,4 +2,4 @@
 
 http://instituteofcommerce.github.io/International
 
-http://internationalinstituteofcommerce.com
+http://InternationalInstituteOfCommerce.com
